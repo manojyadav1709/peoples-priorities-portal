@@ -193,21 +193,26 @@ def seed_database():
         # Seed Districts, Blocks, Gram Panchayats
         for dist in MOCK_DISTRICTS:
             session.add(District(**dist))
+        session.flush() # Force write Districts first
 
         for block in MOCK_BLOCKS:
             session.add(Block(**block))
+        session.flush() # Force write Blocks next
 
         for gp in MOCK_GPS:
             session.add(GramPanchayat(**gp))
+        session.flush() # Force write GPs next
 
         for vil in MOCK_VILLAGES:
             session.add(Village(**vil))
+        session.flush() # Force write Villages next
 
         for cb in MOCK_CONSTITUENCY_BLOCKS:
             session.add(ConstituencyBlock(**cb))
         
         weights = ScoringWeights(id="default")
         session.add(weights)
+        session.flush()
 
         for p in MOCK_PROJECTS:
             session.add(DevelopmentPlanProject(**p))
