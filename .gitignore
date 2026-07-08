@@ -35,6 +35,11 @@ backend/test_app.db
 .env.production.local
 backend/.env
 
+# Raw large datasets
+backend/data/
+*.xls
+*.xlsx
+
 # OS files
 .DS_Store
 Thumbs.db
