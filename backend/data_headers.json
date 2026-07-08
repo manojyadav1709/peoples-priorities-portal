@@ -1,0 +1,955 @@
+{
+  "allBlockStateWithCoveredVillage12026_07_06_23_55_42_996.xls": [
+    [
+      "                                                Local Government Directory"
+    ],
+    [
+      ""
+    ],
+    [
+      "All Blocks of Madhya Pradesh State"
+    ],
+    [
+      ""
+    ],
+    [
+      "State Code",
+      "State Name     (In English)",
+      "District Code",
+      "District Name (In English)",
+      "Block Code",
+      "Block Name   (In English)",
+      "Village Code",
+      " Village Name     ( In English) "
+    ],
+    [
+      "23",
+      "Madhya Pradesh",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "Agar",
+      "472592",
+      "Abhaypur"
+    ],
+    [
+      "23",
+      "Madhya Pradesh",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "Agar",
+      "948264",
+      "Agar Chhawani"
+    ],
+    [
+      "23",
+      "Madhya Pradesh",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "Agar",
+      "472509",
+      "Ahir Bardiya"
+    ],
+    [
+      "23",
+      "Madhya Pradesh",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "Agar",
+      "472542",
+      "Akha Khedi"
+    ],
+    [
+      "23",
+      "Madhya Pradesh",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "Agar",
+      "472633",
+      "Akya Bhati"
+    ]
+  ],
+  "blockofspecificState2026_07_06_23_55_39_639.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "All Blocks of Madhya Pradesh(State Code:23) State"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "District Code",
+      "District Name ",
+      "Block Code",
+      " Block Version",
+      "Block Name",
+      "Block Name"
+    ],
+    [
+      "(In English)  ",
+      " (In English)",
+      "  (In Local)"
+    ],
+    [
+      "1.0",
+      "667",
+      "Agar-Malwa",
+      "4000",
+      "6",
+      "Agar",
+      "आगर"
+    ],
+    [
+      "2.0",
+      "667",
+      "Agar-Malwa",
+      "4001",
+      "4",
+      "Barod",
+      "बड़ोद"
+    ],
+    [
+      "3.0",
+      "667",
+      "Agar-Malwa",
+      "4004",
+      "4",
+      "Nalkheda",
+      null
+    ],
+    [
+      "4.0",
+      "667",
+      "Agar-Malwa",
+      "4007",
+      "3",
+      "Susner",
+      null
+    ],
+    [
+      "5.0",
+      "639",
+      "Alirajpur",
+      "3873",
+      "2",
+      "Alirajpur",
+      null
+    ]
+  ],
+  "districtofSpecificState2026_07_06_23_54_27_269.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "All Districts of Madhya Pradesh(State Code:23) State"
+    ],
+    [
+      null
+    ],
+    [
+      "S. No.",
+      "District Code",
+      "District Version",
+      "District Name",
+      "District Name",
+      "  Census 2001 Code",
+      "Census 2011 Code"
+    ],
+    [
+      "(In English)",
+      "(In Local)"
+    ],
+    [
+      "1.0",
+      "667",
+      "2",
+      "Agar-Malwa",
+      "आगर-मालवा",
+      "",
+      "000"
+    ],
+    [
+      "2.0",
+      "639",
+      "1",
+      "Alirajpur",
+      "अलीराजपुर",
+      "24",
+      "465"
+    ],
+    [
+      "3.0",
+      "390",
+      "1",
+      "Anuppur",
+      "अनूपपुर",
+      "16",
+      "461"
+    ],
+    [
+      "4.0",
+      "391",
+      "1",
+      "Ashoknagar",
+      "अशोकनगर",
+      "46",
+      "459"
+    ],
+    [
+      "5.0",
+      "392",
+      "1",
+      "Balaghat",
+      "बालाघाट",
+      "45",
+      "457"
+    ]
+  ],
+  "priLbSpecificState2026_07_06_23_54_35_066.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "PRI Local bodies of Madhya Pradesh(State Code:23) State"
+    ],
+    [
+      null
+    ],
+    [
+      "S.No.",
+      "Localbody Type Code",
+      "Localbody Type Name",
+      "Localbody Code",
+      "Localbody Version",
+      "Localbody Name",
+      "Localbody Name",
+      "Parent Localbody Code"
+    ],
+    [
+      "(In English)",
+      "(In Local)"
+    ],
+    [
+      "1.0",
+      "1",
+      "Zila Panchayat",
+      "262066",
+      "1",
+      "Agar Malwa",
+      "AGAR MALWA",
+      ""
+    ],
+    [
+      "2.0",
+      "1",
+      "Zila Panchayat",
+      "583",
+      "1",
+      "Alirajpur",
+      "अलीराजपुर",
+      ""
+    ],
+    [
+      "3.0",
+      "1",
+      "Zila Panchayat",
+      "349",
+      "1",
+      "Anuppur",
+      "ANUPPUR",
+      ""
+    ],
+    [
+      "4.0",
+      "1",
+      "Zila Panchayat",
+      "350",
+      "1",
+      "Ashoknagar",
+      "ASHOKNAGAR",
+      ""
+    ],
+    [
+      "5.0",
+      "1",
+      "Zila Panchayat",
+      "351",
+      "1",
+      "Balaghat",
+      "बालाघाट",
+      ""
+    ]
+  ],
+  "priWards2026_07_06_23_55_26_188.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "PRI Local Bodies and Wards of Madhya Pradesh(State code:23) State"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "Local Body Code",
+      "Local Body Name",
+      "Local Body Type",
+      "District Level\nParent Name\n",
+      "Intermediate Level\nParent Name",
+      "Ward Code",
+      "Ward\nNumber",
+      "Ward Name\n(In English)\n",
+      "Ward Name\n(In Local)\n"
+    ],
+    [
+      "1",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "81173",
+      "1",
+      "Ward No. 01",
+      "Ward No. 1"
+    ],
+    [
+      "2",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "1765547",
+      "2",
+      "Ward Number 2",
+      null
+    ],
+    [
+      "3",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "1765548",
+      "3",
+      "Ward Number 3",
+      null
+    ],
+    [
+      "4",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "1765549",
+      "4",
+      "Ward Number 4",
+      null
+    ],
+    [
+      "5",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "1765550",
+      "5",
+      "Ward Number 5",
+      null
+    ],
+    [
+      "6",
+      "150499",
+      "Aawar",
+      "Gram Panchayat",
+      "Agar Malwa",
+      "Agar",
+      "1765551",
+      "6",
+      "Ward Number 6",
+      null
+    ]
+  ],
+  "subDistrictofSpecificState2026_07_06_23_54_27_328.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "All Subdistricts of Madhya Pradesh(State Code:23) State"
+    ],
+    [
+      null
+    ],
+    [
+      "S.No.",
+      "District code",
+      "District Name",
+      "Subdistrict Code",
+      "Subdistrict Version",
+      "Subdistrict Name  ",
+      "Subdistrict Name ",
+      "Census 2001 Code",
+      "Census 2011 Code"
+    ],
+    [
+      "(In English)",
+      "(In Local)"
+    ],
+    [
+      "1",
+      "411",
+      "Jabalpur",
+      "7024",
+      "4",
+      "Adhartal",
+      "आधारताल",
+      "",
+      "00000"
+    ],
+    [
+      "2",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "2",
+      "Agar",
+      "आगर",
+      "4",
+      "03518"
+    ],
+    [
+      "3",
+      "420",
+      "Panna",
+      "3435",
+      "3",
+      "Ajaygarh",
+      "अजयगढ़",
+      "1",
+      "03435"
+    ],
+    [
+      "4",
+      "639",
+      "Alirajpur",
+      "3713",
+      "6",
+      "Alirajpur",
+      "अलीराजपुर",
+      "7",
+      "03713"
+    ],
+    [
+      "5",
+      "423",
+      "Ratlam",
+      "3502",
+      "2",
+      "Alot",
+      "आलोट",
+      "3",
+      "03502"
+    ]
+  ],
+  "tlbSpecificState2026_07_06_23_54_35_290.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "Traditional Local bodies of Madhya Pradesh state"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "Local Body Code",
+      "Local Body Version",
+      "Local Body Name         (In English)",
+      "Local Body Name (In Local)",
+      "Localbody Type  Code",
+      "Local  Body  Type Name",
+      "Parent Localbody Code"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Jul 6, 2026, 11:54 PM"
+    ]
+  ],
+  "uLBWardforState2026_07_06_23_54_36_197.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "Urban local bodies and wards of Madhya Pradesh(State code:23) State"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "Local Body Code",
+      "Local Body Name",
+      "Ward Code",
+      " Ward Number",
+      "Ward Name"
+    ],
+    [
+      "1",
+      "250970",
+      "Itarsi",
+      "37489",
+      "23",
+      "Ahilya Nagar"
+    ],
+    [
+      "2",
+      "250925",
+      "Burhanpur",
+      "23702",
+      "20",
+      "Ward 20 Sindhipura Ward"
+    ],
+    [
+      "3",
+      "250768",
+      "Garhakota",
+      "72521",
+      "5",
+      "Vivekanand Ward"
+    ],
+    [
+      "4",
+      "251040",
+      "Balaghat",
+      "1380",
+      "12",
+      "Ward 12-Rai Sharda Prasad Ward"
+    ],
+    [
+      "5",
+      "250672",
+      "Vijaypur",
+      "3886",
+      "1",
+      "Dr. Ambedkar Ward"
+    ],
+    [
+      "6",
+      "250867",
+      "Dewas",
+      "11087",
+      "24",
+      "Ramnagar Ward"
+    ]
+  ],
+  "uLBWardforStateWithCov2026_07_06_23_54_47_014.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "Urban local bodies and wards of Madhya Pradesh state"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "Local Body Code",
+      "Local Body Name",
+      "Ward Code",
+      " Ward Number",
+      "Ward Name",
+      "District Code",
+      "District Name",
+      "Subdistrict Code",
+      "Subdistrict Name"
+    ],
+    [
+      "1",
+      "250766",
+      "Makronia Buzurg",
+      "2292274",
+      "13",
+      "Aadinath Ward",
+      "425",
+      "Sagar",
+      "3449",
+      "Sagar"
+    ],
+    [
+      "2",
+      "273379",
+      "Meghnagar New",
+      "1300140",
+      "7",
+      "Abdul Kalam Azad",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "3",
+      "273379",
+      "Meghnagar New",
+      "1300140",
+      "7",
+      "Abdul Kalam Azad",
+      "412",
+      "Jhabua",
+      "3708",
+      "Meghnagar"
+    ],
+    [
+      "4",
+      "273379",
+      "Meghnagar New",
+      "1300140",
+      "7",
+      "Abdul Kalam Azad",
+      "412",
+      "Jhabua",
+      "",
+      ""
+    ],
+    [
+      "5",
+      "300085",
+      "Barodiyakalan",
+      "3031012",
+      "9",
+      "Acharya Vidhyasagar Ward",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "6",
+      "300085",
+      "Barodiyakalan",
+      "3031012",
+      "9",
+      "Acharya Vidhyasagar Ward",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "ulbSpecificState2026_07_06_23_54_35_262.xls": [
+    [
+      "Local Government Body"
+    ],
+    [
+      "Urban Local bodies of Madhya Pradesh(State Code:23) State"
+    ],
+    [
+      null
+    ],
+    [
+      "S.No.",
+      "Localbody Type Code",
+      "Localbody Type Name",
+      "Localbody Code",
+      "Localbody Version",
+      "Local Body Name",
+      "Local Body Name",
+      "Census 2001 Code",
+      "Census 2011 Code"
+    ],
+    [
+      "(In English)",
+      "(In Local)"
+    ],
+    [
+      "1.0",
+      "4",
+      "Municipal Corporation",
+      "250946",
+      "16",
+      "Bhopal",
+      "Bhopal",
+      "802312",
+      "4"
+    ],
+    [
+      "2.0",
+      "4",
+      "Municipal Corporation",
+      "250925",
+      "1",
+      "Burhanpur",
+      "Burhanpur",
+      "802439",
+      "4"
+    ],
+    [
+      "3.0",
+      "4",
+      "Municipal Corporation",
+      "251026",
+      "5",
+      "Chhindwara",
+      "Chhindwara",
+      "802386",
+      "4"
+    ],
+    [
+      "4.0",
+      "4",
+      "Municipal Corporation",
+      "250867",
+      "3",
+      "Dewas",
+      "Dewas",
+      "802248",
+      "4"
+    ],
+    [
+      "5.0",
+      "4",
+      "Municipal Corporation",
+      "250694",
+      "40",
+      "Gwalior",
+      "Gwalior",
+      "802100",
+      "4"
+    ]
+  ],
+  "villageGramPanchayatMapping2026_07_06_23_55_39_019.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      ""
+    ],
+    [
+      "Village To Gram Panchayat Mapping Of Madhya Pradesh(State Code : 23) State"
+    ],
+    [
+      ""
+    ],
+    [
+      "S.No.",
+      "District Code",
+      "District Name",
+      "District Census 2011 Code",
+      "District Census 2001 Code",
+      "Subdistrict Code",
+      "Subdistrict Name",
+      "Subdistrict Census 2011 Code",
+      "Subdistrict Census 2001 Code",
+      "Village Code",
+      "Village Name",
+      "Village Census 2011 Code",
+      "Village Census 2001 Code",
+      "Local Body Code",
+      "Local Body Name"
+    ],
+    [
+      "(In English)",
+      "(In English)",
+      "(In English)",
+      "(In English)"
+    ],
+    [
+      "1",
+      "667",
+      "Agar-Malwa",
+      "000",
+      "",
+      "3518",
+      "Agar",
+      "03518",
+      "4",
+      "472592",
+      "Abhaypur",
+      "472592",
+      "02682200",
+      "150535",
+      "Pachora"
+    ],
+    [
+      "2",
+      "667",
+      "Agar-Malwa",
+      "000",
+      "",
+      "3518",
+      "Agar",
+      "03518",
+      "4",
+      "948264",
+      "Agar Chhawani",
+      "000000",
+      "",
+      "",
+      ""
+    ],
+    [
+      "3",
+      "667",
+      "Agar-Malwa",
+      "000",
+      "",
+      "3518",
+      "Agar",
+      "03518",
+      "4",
+      "472509",
+      "Ahir Bardiya",
+      "472509",
+      "02673900",
+      "150500",
+      "Ahir Bardiya"
+    ],
+    [
+      "4",
+      "667",
+      "Agar-Malwa",
+      "000",
+      "",
+      "3518",
+      "Agar",
+      "03518",
+      "4",
+      "472542",
+      "Akha Khedi",
+      "472542",
+      "02677200",
+      "150552",
+      "Sonchidi"
+    ]
+  ],
+  "villageofSpecificState2026_07_06_23_54_33_030.xls": [
+    [
+      "Local Government Directory"
+    ],
+    [
+      "All Villages of Madhya Pradesh(State code : 23) State"
+    ],
+    [
+      null
+    ],
+    [
+      "S.No.",
+      "District Code",
+      "District Name",
+      "Sub-District Code",
+      "Sub-District Name",
+      "Village Code",
+      "Village Version",
+      "Village Name ",
+      "Village Name",
+      "Village Status",
+      "Census 2001 Code",
+      "Census 2011 Code",
+      "Remark"
+    ],
+    [
+      "(In English)",
+      "(In English)",
+      "(In English)",
+      "(In Local)"
+    ],
+    [
+      "1",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "Agar",
+      "472592",
+      "1",
+      "Abhaypur",
+      "अभयपुर",
+      "Inhabitant",
+      "02682200",
+      "472592",
+      ""
+    ],
+    [
+      "2",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "Agar",
+      "948264",
+      "1",
+      "Agar Chhawani",
+      "आगर छावनी",
+      "Inhabitant",
+      "",
+      "000000",
+      ""
+    ],
+    [
+      "3",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "Agar",
+      "472509",
+      "1",
+      "Ahir Bardiya",
+      "अहिरबरडिया",
+      "Inhabitant",
+      "02673900",
+      "472509",
+      ""
+    ],
+    [
+      "4",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "Agar",
+      "472542",
+      "1",
+      "Akha Khedi",
+      "आखाखेड़ी",
+      "Inhabitant",
+      "02677200",
+      "472542",
+      ""
+    ],
+    [
+      "5",
+      "667",
+      "Agar-Malwa",
+      "3518",
+      "Agar",
+      "472633",
+      "1",
+      "Akya Bhati",
+      "आक्याभाटी",
+      "Inhabitant",
+      "02686300",
+      "472633",
+      ""
+    ]
+  ]
+}

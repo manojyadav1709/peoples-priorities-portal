@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f0f4f8;
+  --foreground: #1e293b;
+  --card: #ffffff;
+  --card-border: #cbd5e1;
+  
+  /* Government of India Tricolor Palette */
+  --saffron: #ff9933;
+  --saffron-dark: #e67300;
+  --navy-blue: #092240;
+  --navy-blue-light: #16365c;
+  --green-india: #138808;
+  --text-muted: #64748b;
+  --accent-gold: #d4af37;
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card-bg: var(--card);
+  --color-card-border: var(--card-border);
+  --color-brand-saffron: var(--saffron);
+  --color-brand-navy: var(--navy-blue);
+  --color-brand-green: var(--green-india);
+  --color-brand-navy-light: var(--navy-blue-light);
+  --color-brand-gold: var(--accent-gold);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f0f4f8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Custom Govt Styled Classes */
+.tricolor-strip {
+  height: 4px;
+  background: linear-gradient(to right, #ff9933 33.3%, #ffffff 33.3%, #ffffff 66.6%, #138808 66.6%);
+}
+
+.govt-header-gradient {
+  background: linear-gradient(135deg, #092240 0%, #16365c 100%);
+}
+
+.govt-card {
+  background: #ffffff;
+  border-top: 3px solid var(--saffron);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+.govt-table-header {
+  background-color: var(--navy-blue);
+  color: #ffffff;
+}
+
+.gov-btn-saffron {
+  background-color: var(--saffron);
+  color: #ffffff;
+  transition: all 0.2s;
+}
+
+.gov-btn-saffron:hover {
+  background-color: var(--saffron-dark);
+}
